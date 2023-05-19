@@ -18,7 +18,7 @@ En primer lugar, instanciamos un objeto dht pasando como parámetros el pin OUT 
 Para que funcione el código necesitamos instalar las siguientes librerías:
 
     https://github.com/adafruit/DHT-sensor-library
-
+----
     https://github.com/adafruit/Adafruit_Sensor
 
 ### MONTAJE
